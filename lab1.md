@@ -16,3 +16,6 @@
 https://youtu.be/NLIUsWLEpmg
 ### PlatformIO
 https://platformio.org/
+
+## วิธีการทำการทดลอง
+1.
