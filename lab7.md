@@ -15,6 +15,7 @@
 7. คอมพิวเตอร์
 ![image](https://user-images.githubusercontent.com/80879589/113092556-68336080-9218-11eb-8d98-67c79a6db3a8.png)
 8. สายไฟปากนีบ
+
 ![image](https://user-images.githubusercontent.com/80879589/113092933-27881700-9219-11eb-9bcf-056075a21a0b.png)
 
 
