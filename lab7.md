@@ -11,7 +11,7 @@
 3. ซีเรียล
 4. Adapter
 5. หลอดไฟ LED
-6. sensors DS18B20
+6. sensors (DS18B20)
 ![image](https://user-images.githubusercontent.com/80879589/113092556-68336080-9218-11eb-8d98-67c79a6db3a8.png)
 7. คอมพิวเตอร์
 
